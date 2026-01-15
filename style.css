@@ -57,3 +57,74 @@ nav a:hover{
    font-weight:bold;
    background-image:url(../image/silvar.png);
 }
+/* メインコンテンツ css */
+main{
+    width:960px;
+    padding-top:20px;
+    padding-left:20px;
+    padding-bottom:20px;
+    background-solor:antiquewhite;
+    overflow:hidden;
+}
+h2{
+    font-size:24px;
+    width:400px;
+    height:60px;
+    margin-bottom:20px;
+    line-height:60px;
+    text-align:center;
+    color:darkred;
+    banckground-image:url(../image/silver-h2.png);
+}
+h3{
+    width:220px;
+    height:70px;
+    margin-top:20px;
+    margin-bottom:20px;
+    font-size:20px;
+    line-height:70px;
+    text-align:center;
+    color:darkred;
+    background-image:url(../image/frame.png);
+    float:left;
+}
+.margin_p{
+    margin-top:45px;
+    margin-left:20px;
+    color:brown;
+    float:left
+}
+#picup_img{
+    clear:both;
+    margin-right:20px;
+    float:left;
+}
+#picup_img{
+    width:440px;
+    height:280px;
+    padding:10px;
+    margin-right:20px;
+    border-redius:10px;
+    background-color:burlywood;
+    float:left;
+}
+h4{
+    width:200px;
+    height:60px;
+    margin-bottom:10px;
+    font-size:20px;
+    line-height:60px;
+    color:darkred;
+    text-align:center;
+    border-redius:10px;
+    background-image:url(../image/gokdpane.png);
+}
+#classic{{clear:both;}
+.sweets{
+    width:280px;
+    padding:10px;
+    margin:-right:20px;
+    border-redius:10px;
+    background-color:burlywood;
+    float:left;
+}
