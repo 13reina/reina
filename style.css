@@ -53,3 +53,7 @@ nav a{
    background-image:url(../image/gold.png);
 }
 nav a:hover{
+   color:crimson;
+   font-weight:bold;
+   background-image:url(../image/silvar.png);
+}
